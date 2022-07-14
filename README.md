@@ -1,5 +1,8 @@
 # AIA-Studio_BikeMapper
 
+About the project: <a href="https://www.iaacblog.com/programs/bikemapper/">BikeMapper Blog</a>  <br>
+Deployment: <a href="http://aia22.iaac.net:8080/g1">BikeMapper Deployment</a>  <br>
+
 **All the required files are in the BikeMapper_MachineLearning folder** <br>
 
 1. **Get data about lighting and road type conditions with OSMNX** <br>
