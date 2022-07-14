@@ -1,8 +1,8 @@
 # AIA-Studio_BikeMapper
 
-About the project: <a href="https://www.iaacblog.com/programs/bikemapper/">BikeMapper Blog</a>  <br>
-Website: <a href="http://aia22.iaac.net:8080/g1">BikeMapper Website</a>  <br>
-Deployment: <a href="http://aia22.iaac.net:8080/g1/map">BikeMapper Map</a>  <br>
+About the project:  <a href="https://www.iaacblog.com/programs/bikemapper/">BikeMapper Blog</a>  <br>
+Website:            <a href="http://aia22.iaac.net:8080/g1">BikeMapper Website</a>  <br>
+Deployment:         <a href="http://aia22.iaac.net:8080/g1/map">BikeMapper Map</a>  <br>
 
 **All the required files are in the BikeMapper_MachineLearning folder** <br>
 
