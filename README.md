@@ -1,5 +1,5 @@
 # AIA-Studio_BikeMapper
-1. **Get data about lighting and road type conditions with OSMNX**
+1. **Get data about lighting and road type conditions with OSMNX** <br>
 Use compiling_02.ipynb
 Output: street characteristics including street lighting and road type
 
@@ -15,7 +15,7 @@ Run images through semantic segmentation script (use RoadSurfaceSegmentation.ipy
 Correlate location of mapillary images to streets (coordstoEdges)
 Supplement semantic segmentation with data from osmnx (use compiling_02.ipynb)
 
-4.**Get data about wind speeds**
+4. **Get data about wind speeds**
 Download roads and buildings in Vienna as geojson files (use streets_proj.geojson and buildings_proj.geojson)
 Geojson files can be read in grasshopper (use ViennaBuildingStreets.ipynb)
 Run infrared in grasshopper (use Infrared.gh)
