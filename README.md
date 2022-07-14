@@ -16,7 +16,8 @@ Correlate location of mapillary images to streets (coordstoEdges) <br>
 Supplement semantic segmentation with data from osmnx (use compiling_02.ipynb) <br>
 
 4. **Get data about wind speeds** <br>
-Download roads and buildings in Vienna as geojson files (use streets_proj.geojson and buildings_proj.geojson) <br>
+Download roads and buildings in Vienna as geojson files 
+(use <a href="https://drive.google.com/file/d/1-Lo4ighf97Rwxag09GhExjnTt18Xo5iD/view?usp=sharing">streets_proj.geojson</a> and <a href="https://drive.google.com/file/d/1-4Zu93BIYUDB79zqHrRRGqm9GutjH5Xd/view?usp=sharing">buildings_proj.geojson</a>) <br>
 Geojson files can be read in grasshopper (use ViennaBuildingStreets.ipynb) <br>
 Run infrared in grasshopper (use Infrared.gh) <br>
 
