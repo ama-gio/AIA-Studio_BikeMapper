@@ -1,4 +1,7 @@
 # AIA-Studio_BikeMapper
+
+**All the required files are in the BikeMapper_MachineLearning folder** <br>
+
 1. **Get data about lighting and road type conditions with OSMNX** <br>
 Use compiling_02.ipynb <br>
 Output: street characteristics including street lighting and road type <br>
